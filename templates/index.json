@@ -86,7 +86,7 @@
         "text_zYmrxL": {
           "type": "text",
           "settings": {
-            "text": "Calmiva",
+            "text": "Younique",
             "highlight_type": "underline",
             "text_size": 120,
             "text_color": "primary",
@@ -213,7 +213,7 @@
         "text_ARBErC": {
           "type": "text",
           "settings": {
-            "text": "Free Delivery",
+            "text": "Delivery All Over Lebanon",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -255,7 +255,7 @@
         "heading_FKqVLq": {
           "type": "heading",
           "settings": {
-            "heading": "About Us",
+            "heading": "AT YOUNIQUE",
             "highlight_type": "underline",
             "heading_size": 100,
             "heading_tag": "h2"
@@ -264,7 +264,7 @@
         "text_DYie9T": {
           "type": "text",
           "settings": {
-            "text": "<p>At our store, we believe that self-care should be simple, effective, and accessible to everyone. That’s why we’re dedicated to offering innovative beauty and wellness products designed to fit seamlessly into your daily routine.</p><p>Our featured eye care device combines modern technology with comfort, helping you relax, refresh, and take better care of your skin—all from the comfort of your home. Whether you’re looking to unwind after a long day or enhance your skincare routine, our products are made to support your well-being.</p>",
+            "text": "<p>your destination for beauty essentials.</p><p>We offer a curated selection of skincare, makeup, and must-have products to help you look and feel your best. Our goal is simple: quality products, great value, and a smooth shopping experience.</p><p>Because beauty should be easy, fun, and for everyone.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less"
@@ -344,31 +344,31 @@
         "frequently_asked_question_cCBAj6": {
           "type": "frequently_asked_question",
           "settings": {
-            "icon": "heart",
+            "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "What does this eye device do?",
-            "row_content": "<p><br/>Our eye care device is designed to help relax the eye area, reduce the appearance of puffiness, and support a refreshed, well-rested look using gentle light and soothing technology.<br/><br/></p>"
+            "heading": "Delivery Time",
+            "row_content": "<p>Orders are delivered within <strong>5–7 business days</strong>.</p>"
           }
         },
         "frequently_asked_question_kjDnG9": {
           "type": "frequently_asked_question",
           "settings": {
-            "icon": "heart",
+            "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Is it safe to use daily?",
-            "row_content": "<p>Yes, the device is designed for regular use. However, we recommend following the usage guidelines and consulting a professional if you have any medical concerns.<br/><br/></p>"
+            "heading": "Are your products safe?",
+            "row_content": "<p>Yes! All our products are carefully selected and safe to use.</p>"
           }
         },
         "frequently_asked_question_4dJVT3": {
           "type": "frequently_asked_question",
           "settings": {
-            "icon": "heart",
+            "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "How long does it take to see results?",
-            "row_content": "<p>Results may vary, but many users notice a more relaxed and refreshed feeling immediately, with visible improvements over consistent use.</p>"
+            "heading": "Payment Method",
+            "row_content": "<p>We offer <strong>Cash on Delivery (COD)</strong> for your convenience.</p><p></p>"
           }
         }
       },
