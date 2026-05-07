@@ -1,50 +1,23 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
-    "promotion-banner": {
-      "type": "promotion-banner",
-      "blocks": {
-        "text": {
-          "type": "image_banner",
-          "settings": {
-            "heading": "Contact us",
-            "heading_size": 170,
-            "subheading": "",
-            "text": "Questions? Comments? Let your customers get in touch with you by filling out the email form below. Reassure them that someone will get back to them within a certain timeframe",
-            "text_size": 130,
-            "content_box_type": "square",
-            "add_frame": false,
-            "color_content_box_light": "rgba(0,0,0,0)",
-            "color_content_box_dark": "rgba(0,0,0,0)"
-          }
-        }
-      },
-      "block_order": [
-        "text"
-      ],
-      "settings": {
-        "heading": "Promotion Banner",
-        "image_link": "",
-        "open_new_window": false,
-        "image_overlay_opacity": 20,
-        "content_position": "center",
-        "content_horizontal": 50,
-        "content_vertical": 50,
-        "position_content_mobile": "center",
-        "content_alignment": "center",
-        "show_hero": false,
-        "desktop_height": "450px",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "mobile_height": "250px",
-        "padding_top_mobile": 0,
-        "padding_bottom_mobile": 0
-      }
-    },
     "main": {
       "type": "main-page",
       "settings": {
         "show_heading": false,
         "heading_size": 100,
+        "heading_tag": "h1",
+        "show_breadcrumbs": true,
+        "show_breadcrumbs_border": false,
+        "full_width_breadcrumb": true,
         "desktop_content_alignment": "text-left",
         "mobile_content_alignment": "text-left",
         "background_color_light": "#f2f2f2",
@@ -98,7 +71,9 @@
       ],
       "settings": {
         "heading": "Questions? Send us an email",
+        "highlight_type": "underline",
         "heading_size": 70,
+        "heading_tag": "h2",
         "heading_alignment": "left",
         "text": "",
         "background_color_light": "rgba(0,0,0,0)",
@@ -108,12 +83,16 @@
         "success_message": "Thanks for contacting us. We'll get back to you as soon as possible.",
         "show_content": "info",
         "form_alignment": "left",
-        "contact_heading": "Contact infomation",
+        "desktop_height": "550px",
+        "mobile_height": "400px",
+        "contact_heading": "",
+        "highlight_type_1": "underline",
+        "heading_tag_2": "h2",
         "infomation": "",
-        "address": "75 9th Ave, New York, NY 10011-7006",
-        "phone_nummber": "+1234567890",
-        "email_address": "info@yourstore.com",
-        "contact_text": "<p>Opening hours<\/p><p>Mon - Fri, 8:30am - 10:30pm,<br\/>Saturday, 8:30am - 10:30pm,<br\/>Sunday, 8:30am - 10:30pm<\/p>",
+        "address": "",
+        "phone_nummber": "",
+        "email_address": "",
+        "contact_text": "",
         "full_width": false,
         "show_section_divider": false,
         "padding_top": 76,
@@ -126,7 +105,6 @@
     }
   },
   "order": [
-    "promotion-banner",
     "main",
     "form"
   ]
